@@ -30,4 +30,4 @@ US accidents data has the potential to be used for numerous applications such as
 
 We hope to find some meaningful and actionable insights from this project about accident prediction and thus avoidance. Also, the data is quite rich, with almost 3 million records and around 50 features, to provide a considerable challenge to be solved by applying machine learning algorithms. Additionally, the data is collected in real-time, from Feb 2016 to Dec 2019, which is very recent and could potentially make the results of our predictive analytics problem more relevant.
 
-##### This repository contains a report which outlines the dataset details, technical approach, brief description of models tried, final results as well as all codes used for the analysis
+#### This repository contains a report which outlines the dataset details, technical approach, brief description of models tried, final results as well as all codes used for the analysis
